@@ -46,31 +46,31 @@ section.mainPage .imageWrap .parallaxImage {
 }
 
 section.mainPage .imageWrap .parallaxImage:nth-child(1) {
-  background-image: url(images/main_0.png);
+  background-image: url(/images/main_0.png);
 }
 
 section.mainPage .imageWrap .parallaxImage:nth-child(2) {
-  background-image: url(images/main_1.png);
+  background-image: url(/images/main_1.png);
 }
 
 section.mainPage .imageWrap .parallaxImage:nth-child(3) {
-  background-image: url(images/main_2.png);
+  background-image: url(/images/main_2.png);
 }
 
 section.mainPage .imageWrap .parallaxImage:nth-child(4) {
-  background-image: url(images/main_3.png);
+  background-image: url(/images/main_3.png);
 }
 
 section.mainPage .imageWrap .parallaxImage:nth-child(5) {
-  background-image: url(images/main_4.png);
+  background-image: url(/images/main_4.png);
 }
 
 section.mainPage .imageWrap .parallaxImage:nth-child(6) {
-  background-image: url(images/main_5.png);
+  background-image: url(/images/main_5.png);
 }
 
 section.mainPage .imageWrap .parallaxImage:nth-child(7) {
-  background-image: url(images/main_6.png);
+  background-image: url(/images/main_6.png);
 }
 
 section.subPage {
