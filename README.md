@@ -8,4 +8,4 @@ imageAll.forEach((image, index) => {
     image.style.transform = `perspective(400px) translate3d(0, 0, ${scrollNumber / (2 * (totalNumber - index))}px)`;
   })
 ```
-Give each background image a perspective style to create a sense of perspective.
+* Give each background image a perspective style to create a sense of perspective.
